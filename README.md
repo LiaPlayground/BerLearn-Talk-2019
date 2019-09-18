@@ -14,7 +14,19 @@ import:   https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 
 # LiaScript - An open-courSe development system
 
+> **1.** Use the arrow buttons above for navigation
+>
+> **2.** Turn on your sound for the text output.
 
+Project:
+
+* Website: http://LiaScript.github.io
+* GitHub: https://github.com/andre-dietrich/BerLearn-Talk-2019
+* LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/README.md#1
+
+![qr-code](https://api.qrserver.com/v1/create-qr-code/?size=222x222&data=https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/README.md)
+
+    --{{1}}--
 LiaScript, in contrast to all authoring systems, is not a tool, it is a language
 based on Markdown, designed to be easy to learn and to enable everyone to create
 and share high-quality educational content or at least participate in this
@@ -147,19 +159,39 @@ autoplay="autoplay" style="width:100%"
 
 
     --{{6}}--
-You may have noticed
-
+You may have noticed the script-tag that defines how code is executed. LiaScript
+has its own macro-system that allows to hide and reuse JavaScript, CSS, HTML.
+Even more than that, courses can import this functionality from other courses.
+Like in the example, only one command is required to load a medical data-set and
+visualize it.
 
       {{6}}
 !?[![BerLearn7](http://i3.ytimg.com/vi/kpJvm955nLg/maxresdefault.jpg)](vid/BerLearn7.mp4)<!-- autoplay="autoplay" style="width:100%" -->
 
+## Publish your Course
+
+    --{{0}}--
+You only have to upload your text-file somewhere, preferably on
+[GitHub](https://github.com), and then pass the link to the
+[LiaScript-website](https://LiaScript.github.io). The course will be immediately
+loaded and you will get an unique URL, that you can share with others.  A
+JavaScript-application is responsible for loading the course and interpreting
+it. No login, no setup, everything happens within the browser and all states are
+stored locally.
+
+![share](img/share.png)<!-- style="width: 100%" -->
 
 ## Whats Next?
 
+1. **PWA** : Progressive Web App
 
-1. PWA
+       --{{0}}--
+   The next step is to implement a PWA, a webs
 
 2. More distribution
+
+       --{{1}}--
+   todo
 
 
 # Original Demo
@@ -180,15 +212,13 @@ by a line-breaks.
 
 
 
-
-        {{2}}
+      {{2}}
 | Lists are  | Simple too |
 |:-----------|-----------:|
 | {4}{left}  | {5}{right} |
 
 
-
-        {{3-4}}
+     {{3-4}}
                          Multiline
     1.9 |    DOTS
         |        *

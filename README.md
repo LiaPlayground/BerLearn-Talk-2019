@@ -141,7 +141,7 @@ you can add a title to it, and a script-tag and you get executable code, that is
 editable, with its own linear versioning system.
 
      {{5-6}}
-!?[![BerLearn6](https://www.youtube.com/watch?v=1tAdd8ORXsE)](vid/BerLearn6.mp4)<!--
+!?[![BerLearn6](http://i3.ytimg.com/vi/1tAdd8ORXsE/maxresdefault.jpg)](vid/BerLearn6.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -203,22 +203,20 @@ by a line-breaks.
 
 ## Quizzes
 
-
-
 ### MultipleChoice
 
-[[ ]] Add as many elements as you want?
-[[X]] The X marks the correct answer!
-[[X]] ... this has to be selected too ...
-[[ ]] ... this is wrong ...
+    [[ ]] Add as many elements as you want?
+    [[X]] The X marks the correct answer!
+    [[X]] ... this has to be selected too ...
+    [[ ]] ... this is wrong ...
 
 ### SingleChoice
 
-[( )] This is wrong.
-[(X)] The only correct option.
-[( )] Still not right.
-[[?]] give some hints
-[[?]] more hints
+    [( )] This is wrong.
+    [(X)] The only correct option.
+    [( )] Still not right.
+    [[?]] give some hints
+    [[?]] more hints
 *********************
 
 the solution might

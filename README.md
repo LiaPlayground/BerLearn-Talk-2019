@@ -1,11 +1,13 @@
 <!--
-author:   Yo
-email:    your@email.com
+author:   André Dietrich
+email:    LiaScript@web.com
 version:  0.1.0
 language: en
 narrator: US English Female
 
-import: https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
+link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
+
+import:   https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 
 -->
 
@@ -39,17 +41,21 @@ have basic video-cutting skills, but a video is not interactive or easy to
 change. You can program your interactive courses, but this is even more
 challenging and time consuming. Or there is this thing called
 Learning-Management-System, that in most cases also have a high learning curve
-and require you to be always online. So in most cases, people get stuck to
+and require you to be always online. Thus, in most cases, people get stuck to
 simple text formats and share PDFs, Word-documents, or PowerPoints.
 
 ![YouTube](img/YouTube.png)<!--
-style="width:24%"
+style="width:23%; animation-delay: 5s;"
+class="animated fadeIn"
 --> ![Html](img/HTML.png)<!--
-style="width:24%"
+style="width:23%; animation-delay: 13s;"
+class="animated fadeIn"
 --> ![Html](img/Moodle.png)<!--
-style="width:24%"
+style="width:23%; animation-delay: 19s;"
+class="animated fadeIn"
 --> ![Html](img/word.png)<!--
-style="width:24%"
+style="width:23%; animation-delay: 28s;"
+class="animated fadeIn"
 -->
 
     --{{1}}--
@@ -73,7 +79,7 @@ to create content, define animations, quizzes, include multimedia content, live
 coding and other fancy stuff.
 
      {{0-1}}
-!?[vido](vid/BerLearn1.mp4?1)<!-- autoplay="autoplay" style="width:100%" -->
+!?[![BerLearn1](http://i3.ytimg.com/vi/PGulF4H6iC0/maxresdefault.jpg)](vid/BerLearn1.mp4?1)<!-- autoplay="autoplay" style="width:100%" -->
 
 
     --{{1}}--
@@ -83,6 +89,7 @@ is for example the possibility to use ASCII-art not only to draw diagrams.
 
      {{1-2}}
 !?[vido](vid/BerLearn2.mp4?2)<!-- autoplay="autoplay" style="width:100%" -->
+
 
     --{{2}}--
 Most PowerPoint-presentations are like, showing a bullet-point while someone
@@ -96,10 +103,10 @@ two minuses around it, an the content gets spoken out loud.
 
     --{{3}}--
 How would you define a quiz only with a typewriter? Quizzes in LiaScript are
-always associated with brackets. You can implement a muliplechoice quiz with
-this checkbox-like notation, where the X marks the element to be checked.
-A singlechoice quiz is simply a radio-button like representation with
-parenthesses. You can add as many lines, even hints, or more detailed
+always associated with brackets. You can implement a multiple-choice quiz with
+this checkbox-like notation, where the X marks the element to be checked. A
+single-choice quiz is simply a radio-button like representation with
+parenthesis. You can add as many lines, even hints, or more detailed
 explanations. And there are much more quizzes available.
 
      {{3-4}}
@@ -108,10 +115,11 @@ explanations. And there are much more quizzes available.
 
     --{{4}}--
 These are 4 different links. In Markdown you add brackets in front of it and put
-the link into paretheses, to get a named link. If you add a exclamation-mark in
+the link into parenthesis, to get a named link. If you add a exclamation-mark in
 front of it, you indicate that it is an image. That is Markdown. In LiaScript
-you can add a questionmark to indicate that it is sound, in this case a
-soundcloud link. And if you combine an image with sound you define a video.
+you can add a question mark to indicate that it is sound, in this case a
+[soundcloud](https://soundcloud.com) link. And if you combine an image with
+sound you define a video.
 
      {{4-5}}
 !?[vido](vid/BerLearn5.mp4)<!-- autoplay="autoplay" style="width:100%" -->

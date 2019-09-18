@@ -12,7 +12,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 -->
 
 
-# LiaScript - An open-courSe development system
+# LiaScript - An Open-courSe development system
 
 > **1.** Use the arrow buttons above for navigation
 >
@@ -32,7 +32,7 @@ based on Markdown, designed to be easy to learn and to enable everyone to create
 and share high-quality educational content or at least participate in this
 process.
 
-## Education is a Business
+## Education as a Business
 
     --{{0}}--
 I am sorry to disappoint you, but we all screwed up. Although the internet was
@@ -44,7 +44,7 @@ of private universities or schools, expensive MOOCs.
 
 _^Source: https://www.aeseducation.com/blog/infographic-the-skyrocketing-cost-of-textbooks-for-schools-students ^_
 
-## The Main Problem ..
+## The Main Problem ...
 
     --{{0}}--
 The main problem is, that most of us are simply cut of from the process of
@@ -78,9 +78,10 @@ features from LMS.
 
 ## BerLearn 2019
 
+    --{{0}}--
 On the next slide, I recorded a simple LiaScript development process. On the
-left you will see the text-format and on the right, the generated output, that
-is updated every time, when is hit save.
+left you will see the text-format (course-content) and on the right, the
+generated output, that is updated every time, when I hit save.
 
 ### Demo
 
@@ -186,12 +187,16 @@ stored locally.
 1. **PWA** : Progressive Web App
 
        --{{0}}--
-   The next step is to implement a PWA, a webs
+   The next step is to implement a PWA, a website that can be installed on
+   SmartPhones and tablets, which can be used offline as well as the courses,
+   which only have to be loaded once.
 
-2. More distribution
+2. More distribution & communication
 
        --{{1}}--
-   todo
+   What is currently missing, is the possibility for shared classrooms, chats,
+   and more, where teachers see the results of quizzes and surveys and can
+   interact freely with students in their group.
 
 
 # Original Demo

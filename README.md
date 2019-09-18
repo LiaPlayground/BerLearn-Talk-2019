@@ -187,18 +187,18 @@ by a line-breaks.
 
 
         {{3-4}}
-                     Multiline
-1.9 |    DOTS
-    |        *
-  y |     *     *
-  - |    *       *
-  a |   *         *
-  x |  *           *
-  i | *             *
-  s |r r r r r r r r * r r r r
-    |                   * *  *
- -1 +-------------------------
-    0         x-axis         1
+                         Multiline
+    1.9 |    DOTS
+        |        *
+      y |     *     *
+      - |    *       *
+      a |   *         *
+      x |  *           *
+      i | *             *
+      s |r r r r r r r r * r r r r
+        |                   * *  *
+     -1 +-------------------------
+        0         x-axis         1
 
 
 ## Quizzes

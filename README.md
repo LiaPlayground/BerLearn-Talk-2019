@@ -20,13 +20,19 @@ process.
 
 ## Education is a Business
 
+    --{{0}}--
 I am sorry to disappoint you, but we all screwed up. Although the internet was
 created to share information freely, education is becoming more and more a
 business its not only the increase of textbook prices, it is the growing number
 of private universities or schools, expensive MOOCs.
 
+![Problem](img/percentage.png)<!-- style="width: 100%" -->
+
+_^Source: https://www.aeseducation.com/blog/infographic-the-skyrocketing-cost-of-textbooks-for-schools-students ^_
+
 ## The Main Problem ..
 
+    --{{0}}--
 The main problem is, that most of us are simply cut of from the process of
 creating content. Of course, you can use YouTube, if you like your voice and
 have basic video-cutting skills, but a video is not interactive or easy to
@@ -34,8 +40,19 @@ change. You can program your interactive courses, but this is even more
 challenging and time consuming. Or there is this thing called
 Learning-Management-System, that in most cases also have a high learning curve
 and require you to be always online. So in most cases, people get stuck to
-simple text formats and share pdfs, word-documents, or powerpoints.
+simple text formats and share PDFs, Word-documents, or PowerPoints.
 
+![YouTube](img/YouTube.png)<!--
+style="width:24%"
+--> ![Html](img/HTML.png)<!--
+style="width:24%"
+--> ![Html](img/Moodle.png)<!--
+style="width:24%"
+--> ![Html](img/word.png)<!--
+style="width:24%"
+-->
+
+    --{{1}}--
 Imagine we could use simple text-documents and create YouTube-like screencast
 presentations, interactive and freely programmable experience, with common
 features from LMS.
@@ -108,7 +125,12 @@ editable, with its own linear versioning system.
      {{5-6}}
 !?[vido](vid/BerLearn6.mp4)<!-- autoplay="autoplay" style="width:100%" -->
 
-     {{6-7}}
+
+    --{{6}}--
+You may have noticed
+
+
+      {{6}}
 !?[vido](vid/BerLearn7.mp4)<!-- autoplay="autoplay" style="width:100%" -->
 
 

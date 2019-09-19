@@ -305,4 +305,6 @@ else {
 
 ## Macros
 
+> Please be patient, loading the dataset may take a while.
+
 @VTK.load(https://data.kitware.com/api/v1/file/58e665158d777f16d095fc2e/download)

@@ -48,7 +48,7 @@ created to share information freely, education is becoming more and more a
 business its not only the increase of textbook prices, it is the growing number
 of private universities or schools, expensive MOOCs.
 
-![Problem](img/percentage.png)<!-- style="width: 100%" -->
+![Problem](img/percentage.png)<!-- style="width: 80%" -->
 
 _^Source: https://www.aeseducation.com/blog/infographic-the-skyrocketing-cost-of-textbooks-for-schools-students ^_
 

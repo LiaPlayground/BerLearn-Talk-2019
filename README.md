@@ -19,7 +19,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 >
 > **2.** Turn on your sound for the text output.
 
-Project:
+__By Dr. André Dietrich:__
 
 * Website: http://LiaScript.github.io
 * GitHub: https://github.com/andre-dietrich/BerLearn-Talk-2019

@@ -14,6 +14,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 
 # LiaScript - An Open-courSe development system
 
+    {{0-1}}
 > **1.** Use the arrow buttons above for navigation
 >
 > **2.** Turn on your sound for the text output.
@@ -24,7 +25,14 @@ Project:
 * GitHub: https://github.com/andre-dietrich/BerLearn-Talk-2019
 * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/README.md#1
 
-![qr-code](https://api.qrserver.com/v1/create-qr-code/?size=222x222&data=https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/README.md)
+---
+
+![qr-code](https://api.qrserver.com/v1/create-qr-code/?size=222x222&data=https://liascript.github.io/course/?https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/README.md)<!--
+style="height: 300px; border:1px solid #021a40;" -->
+![BerLearn](img/BerLearn.png) <!-- style="float:right; height: 300px; border:1px solid #021a40;" -->
+
+
+
 
     --{{1}}--
 LiaScript, in contrast to all authoring systems, is not a tool, it is a language

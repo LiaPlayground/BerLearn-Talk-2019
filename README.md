@@ -1,9 +1,15 @@
 <!--
 author:   André Dietrich
 email:    LiaScript@web.com
-version:  0.1.0
+version:  0.1.1
 language: en
 narrator: US English Female
+
+logo:     https://secure.meetupstatic.com/photos/event/d/a/b/a/600_478375994.jpeg
+
+comment:  BerLearn-Pitch-Talk about the need for a new domain-specific-language
+          for creating free and open courses, and about the ease of using
+          LiaScript to create them ;-)
 
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
 
@@ -251,10 +257,11 @@ by a line-breaks.
 
 ### MultipleChoice
 
-    [[ ]] Add as many elements as you want?
-    [[X]] The X marks the correct answer!
-    [[X]] ... this has to be selected too ...
-    [[ ]] ... this is wrong ...
+
+[[ ]] Add as many elements as you want?
+[[X]] The X marks the correct answer!
+[[X]] ... this has to be selected too ...
+[[ ]] ... this is wrong ...
 
 ### SingleChoice
 

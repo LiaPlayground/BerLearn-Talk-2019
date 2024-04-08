@@ -107,7 +107,7 @@ to create content, define animations, quizzes, include multimedia content, live
 coding and other fancy stuff.
 
      {{0-1}}
-!?[![BerLearn1](http://i3.ytimg.com/vi/PGulF4H6iC0/maxresdefault.jpg)](vid/BerLearn1.mp4)<!--
+!?[![BerLearn1](http://i3.ytimg.com/vi/PGulF4H6iC0/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn1.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -118,7 +118,7 @@ List ordered and ordered, you can have tables, and more. What LiaScript adds
 is for example the possibility to use ASCII-art not only to draw diagrams.
 
      {{1-2}}
-!?[![BerLearn2](http://i3.ytimg.com/vi/S9lzG-4I0uc/maxresdefault.jpg)](vid/BerLearn2.mp4)<!--
+!?[![BerLearn2](http://i3.ytimg.com/vi/S9lzG-4I0uc/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn2.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -130,7 +130,7 @@ braces with a number to indicate when something should appear or disappear. Add
 two minuses around it, an the content gets spoken out loud.
 
      {{2-3}}
-!?[![BerLearn3](http://i3.ytimg.com/vi/4xC0v6d8osA/maxresdefault.jpg)](vid/BerLearn3.mp4)<!--
+!?[![BerLearn3](http://i3.ytimg.com/vi/4xC0v6d8osA/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn3.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -144,7 +144,7 @@ parenthesis. You can add as many lines, even hints, or more detailed
 explanations. And there are much more quizzes available.
 
      {{3-4}}
-!?[![BerLearn4](http://i3.ytimg.com/vi/Q1RxgvltEhA/maxresdefault.jpg)](vid/BerLearn4.mp4?4)<!--
+!?[![BerLearn4](http://i3.ytimg.com/vi/Q1RxgvltEhA/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn4.mp4?4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -158,7 +158,7 @@ you can add a question mark to indicate that it is sound, in this case a
 sound you define a video.
 
      {{4-5}}
-!?[![BerLearn5](http://i3.ytimg.com/vi/V-PtMm5IErs/maxresdefault.jpg)](vid/BerLearn5.mp4)<!--
+!?[![BerLearn5](http://i3.ytimg.com/vi/V-PtMm5IErs/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn5.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -169,7 +169,7 @@ you can add a title to it, and a script-tag and you get executable code, that is
 editable, with its own linear versioning system.
 
      {{5-6}}
-!?[![BerLearn6](http://i3.ytimg.com/vi/1tAdd8ORXsE/maxresdefault.jpg)](vid/BerLearn6.mp4)<!--
+!?[![BerLearn6](http://i3.ytimg.com/vi/1tAdd8ORXsE/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn6.mp4)<!--
 autoplay="autoplay" style="width:100%"
 -->
 
@@ -182,7 +182,7 @@ Like in the example, only one command is required to load a medical data-set and
 visualize it.
 
       {{6}}
-!?[![BerLearn7](http://i3.ytimg.com/vi/kpJvm955nLg/maxresdefault.jpg)](vid/BerLearn7.mp4)<!-- autoplay="autoplay" style="width:100%" -->
+!?[![BerLearn7](http://i3.ytimg.com/vi/kpJvm955nLg/maxresdefault.jpg)](https://raw.githubusercontent.com/andre-dietrich/BerLearn-Talk-2019/master/vid/BerLearn7.mp4)<!-- autoplay="autoplay" style="width:100%" -->
 
 ## Publish your Course
 
